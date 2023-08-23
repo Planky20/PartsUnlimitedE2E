@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-// change
+// change.
 
 namespace PartsUnlimited.Models
 {
